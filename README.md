@@ -8,7 +8,7 @@ O projeto será dividido em várias bibliotecas que encapsulam funcionalidades e
 
 ### Estrutura de Bibliotecas
 
-1. **mecanica_logistica.py**
+1. **mecanica.py**
    - **Descrição:** Este módulo contém a lógica principal do jogo, incluindo:
      - Sistema de turnos
      - Cálculo de danos
