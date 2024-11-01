@@ -1,7 +1,7 @@
 # Bossline-Path-of-Conquest-Python-
 
 ## Descrição do Projeto
-BossLine é um jogo de aventura em texto onde os jogadores enfrentam uma série de inimigos em um formato de "Boss Rush". O jogo será executado em um terminal, utilizando arte de caracteres para representar a HUD, os inimigos e os personagens. O objetivo do jogo é derrotar todos os chefes e resolver desafios.
+BossLine é um jogo de aventura em texto onde os jogadores enfrentam uma série de inimigos em um formato de "Boss Rush". O jogo será executado em um terminal, utilizando arte de caracteres para representar a HUD, os inimigos e os personagens. O objetivo do jogo é derrotar todos os chefes.
 
 ## Estrutura do Projeto
 O projeto será dividido em várias bibliotecas que encapsulam funcionalidades específicas do jogo. Abaixo está uma descrição de cada biblioteca e como elas serão referenciadas no módulo principal.
