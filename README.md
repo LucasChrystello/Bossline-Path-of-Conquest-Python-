@@ -65,3 +65,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+```
+**Referência de text-art**
+ -https://www.text-image.com/
