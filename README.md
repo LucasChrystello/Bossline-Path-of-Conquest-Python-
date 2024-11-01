@@ -17,7 +17,7 @@ O projeto será dividido em várias bibliotecas que encapsulam funcionalidades e
      - Funções de aleatoriedade
    - **Referência no módulo principal:**
      ```python
-     from mecanica_logistica import iniciar_jogo, verificar_vitoria
+     from mecanica import iniciar_jogo, verificar_vitoria
      ```
 
 2. **inimigos.py**
@@ -53,7 +53,7 @@ O módulo principal do jogo (por exemplo, `main.py`) irá importar todos os mód
 
 ```python
 # main.py
-from mecanica_logistica import iniciar_jogo, verificar_vitoria
+from mecanica import iniciar_jogo, verificar_vitoria
 from inimigos import inimigos_data
 from itens import itens_disponiveis
 from interface import exibir_hud, exibir_mensagem
